@@ -21,6 +21,7 @@ Please be aware similar Gitlab instructions - if that is a preference.
 1. Go to Github.com
 
 2. Create an account
+    Edit Profile for more than 1 email.
 
 3. Go to the workshop repo
     https://github.com/foss-style/
